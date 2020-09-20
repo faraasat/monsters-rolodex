@@ -1,6 +1,6 @@
 # Monsters-Rolodex
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://faraasat.github.io/monsters-rolodex/)
 
 This is a simple React App. I have build this while following a React tutorial!
 
