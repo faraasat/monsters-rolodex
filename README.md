@@ -6,7 +6,7 @@
 
 ### ⚒ Project Demo:
 
-Experience the project in action by visiting our live demo: [Monster Rolodex](https://monter-rolodex-web-demo.vercel.app/)
+Experience the project in action by visiting our live demo: [Monster Rolodex](https://monster-rolodex-web-demo.vercel.app/)
 
 ---
 
@@ -65,7 +65,7 @@ We would like to acknowledge the following contributor for their valuable contri
 Take a glimpse into the captivating world of Natours Tour Static Website:
 
 <p align="center">
-  <a href="https://monter-rolodex-web-demo.vercel.app/">
+  <a href="https://monster-rolodex-web-demo.vercel.app/">
     <img width='100%' src="screen-shot.png"/>
   </a>
 </p>
